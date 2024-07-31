@@ -1,7 +1,6 @@
 ######################## default configuration ####################
 # baseURL = "https://kicon.kicad.org/europe2024"
 baseURL = "http://kicon.hqdoc.top"
-title = "KiCon Asia 2024"
 theme = "eventre-hugo"
 timeZone = "Asia/Shanghai"
 # post pagination
@@ -13,6 +12,25 @@ disableLanguages = [
 ] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
 hasCJKLanguage = true #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
 
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.zh-cn]
+    contentDir = 'content/zh_CN'
+    disabled = false
+    languageCode = 'zh-cn'
+    languageDirection = 'ltr'
+    languageName = '简体中文 '
+    title = 'KiCon亚洲2024'
+    weight = 1
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'KiCon Asia 2024'
+    weight = 2
 
 ############################# Build ##############################
 [build]
@@ -97,118 +115,6 @@ attributes = ""
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
 attributes = ""
-
-
-####################### navigation ##########################
-
-# main menu
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[menu.main]]
-name = "About"
-url = "about/"
-weight = 2
-
-[[menu.main]]
-name = "Call for proposals"
-url = "https://pretalx.kicad.org/kicon-europe-2024/cfp"
-weight = 3
-hasChildren = true
-
-[[menu.main]]
-name = "Registration"
-url = "registration/"
-weight = 4
-
-[[menu.main]]
-name = "Schedule"
-url = "schedule/"
-weight = 5
-
-  [[menu.main]]
-    weight = 1
-    parent = "Schedule"
-    name = "Schedule overview"
-    url = "schedule/"
-
-  [[menu.main]]
-    weight = 3
-    parent = "Schedule"
-    name = "Talks"
-    url = "schedule/talks/"
-
-  [[menu.main]]
-    weight = 4
-    parent = "Schedule"
-    name = "Training Session"
-    url = "schedule/training/"
-
-[[menu.main]]
-name = "Sponsors"
-url = "sponsors/"
-weight = 6
-hasChildren = true
-
-  [[menu.main]]
-    weight = 1
-    parent = "Sponsors"
-    name = "Call for sponsors"
-    url = "call-for-sponsors/"
-
-  [[menu.main]]
-    weight = 2
-    parent = "Sponsors"
-    name = "Our sponsors"
-    url = "sponsors/"
-
-# [[menu.main]]
-# name = "Blog"
-# url = "blog/"
-# weight = 5
-
- [[menu.main]]
- weight = 7
- name = "Venue"
- hasChildren = true
-
-    [[menu.main]]
-    parent = "Venue"
-    name = "About Venue"
-    url = "venue/about-venue/"
-
-   [[menu.main]]
-   parent = "Venue"
-   name = "Accommodation"
-   url = "venue/accommodation/"
-
-  [[menu.main]]
-  parent = "About"
-  name = "FAQ"
-  url = "faq/"
-  weight = 3
-
-    [[menu.main]]
-  parent = "About"
-  name = "Important dates"
-  url = "important-dates/"
-  weight = 2
-
-
-  [[menu.main]]
-  parent = "About"
-  name = "Code of Conduct"
-  url = "coc/"
-  weight = 4
-
-[[menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 8
-
-
 
 #################### default parameters ################################
 [params]

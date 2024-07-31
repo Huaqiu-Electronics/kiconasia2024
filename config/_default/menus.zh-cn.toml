@@ -1,0 +1,107 @@
+####################### navigation ##########################
+# main menus
+[[main]]
+name = "主页"
+url = "/"
+weight = 1
+
+[[main]]
+name = "关于"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Call for proposals"
+url = "https://pretalx.kicad.org/kicon-europe-2024/cfp"
+weight = 3
+hasChildren = true
+
+[[main]]
+name = "Registration"
+url = "registration/"
+weight = 4
+
+[[main]]
+name = "Schedule"
+url = "schedule/"
+weight = 5
+
+  [[main]]
+    weight = 1
+    parent = "Schedule"
+    name = "Schedule overview"
+    url = "schedule/"
+
+  [[main]]
+    weight = 3
+    parent = "Schedule"
+    name = "Talks"
+    url = "schedule/talks/"
+
+  [[main]]
+    weight = 4
+    parent = "Schedule"
+    name = "Training Session"
+    url = "schedule/training/"
+
+[[main]]
+name = "Sponsors"
+url = "sponsors/"
+weight = 6
+hasChildren = true
+
+  [[main]]
+    weight = 1
+    parent = "Sponsors"
+    name = "Call for sponsors"
+    url = "call-for-sponsors/"
+
+  [[main]]
+    weight = 2
+    parent = "Sponsors"
+    name = "Our sponsors"
+    url = "sponsors/"
+
+# [[main]]
+# name = "Blog"
+# url = "blog/"
+# weight = 5
+
+ [[main]]
+ weight = 7
+ name = "Venue"
+ hasChildren = true
+
+    [[main]]
+    parent = "Venue"
+    name = "About Venue"
+    url = "venue/about-venue/"
+
+   [[main]]
+   parent = "Venue"
+   name = "Accommodation"
+   url = "venue/accommodation/"
+
+  [[main]]
+  parent = "About"
+  name = "FAQ"
+  url = "faq/"
+  weight = 3
+
+    [[main]]
+  parent = "About"
+  name = "Important dates"
+  url = "important-dates/"
+  weight = 2
+
+
+  [[main]]
+  parent = "About"
+  name = "Code of Conduct"
+  url = "coc/"
+  weight = 4
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 8
