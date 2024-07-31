@@ -1,0 +1,315 @@
+################# Banner ###################
+banner:
+  enable : true
+  heading : "KiCon Asia 2024"
+  heading_2 : "Shenzhen, China"
+  content : "15 - 16 Nov 2024 Shenzhen"
+  timer:
+    enable : true
+    year : 2024
+    month : 11
+    day : 15
+  button:
+    enable : true
+    label : "Want to give a talk? The call for proposals is currently open!"
+    link : "https://pretalx.kicad.org/kicon-europe-2024/cfp"
+
+
+################# About ###################
+about:
+  enable : true
+  title : "About _KiCon_"
+  #image : "images/speakers/featured-speaker.png"
+  image : "images/background/banner-kicon-small.jpg"
+  content : "The KiCad conference, a European conference to discuss and develop all things KiCad.
+<br><br>
+This conference series, first hosted in Chicago, IL, USA in 2019, is a place for the KiCad community to meet and discuss all things KiCad. The conference is a mix of user and developer content, with a focus on the future of the project."
+  button_solid:
+    enable : false
+    label : "Buy ticket"
+    link : "pricing/"
+  button_outline:
+    enable : true
+    label : "Read more"
+    link : "about/"
+
+
+################# Speaker ###################
+speakers:
+  enable : true
+  title : "With _**keynotes**_ by"
+  content : ""
+  # speaker items are coming from "content/speakers" folder
+
+###################### Tab ####################
+tab:
+  enable : false
+  title : "Event Schedule"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
+  tablist:
+  # tab item
+  - name : "Day-01"
+    date : "20 November 2017"
+    tablist_items:
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "Introduction to Wp"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-two.jpg"
+      subject : "Introduction to Wp"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-three.jpg"
+      subject : "Introduction to Wp"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-four.jpg"
+      subject : "Introduction to Wp"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-five.jpg"
+      subject : "Introduction to Wp"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-six.jpg"
+      subject : "Introduction to Wp"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+
+
+  # tab item
+  - name : "Day-02"
+    date : "23 November 2017"
+    tablist_items:
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "Introduction to Wp"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-two.jpg"
+      subject : "Introduction to Wp"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-three.jpg"
+      subject : "Introduction to Wp"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-four.jpg"
+      subject : "Introduction to Wp"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-five.jpg"
+      subject : "Introduction to Wp"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-six.jpg"
+      subject : "Introduction to Wp"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+
+
+  # tab item
+  - name : "Day-03"
+    date : "25 November 2017"
+    tablist_items:
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "Introduction to Wp"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-two.jpg"
+      subject : "Introduction to Wp"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-three.jpg"
+      subject : "Introduction to Wp"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-four.jpg"
+      subject : "Introduction to Wp"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-five.jpg"
+      subject : "Introduction to Wp"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-six.jpg"
+      subject : "Introduction to Wp"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+
+
+############ Registration ####################
+registration:
+  enable : false
+  title : "Register to _Eventre_"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+  form_action : "#" # works with formspree.io
+
+  funfacts:
+  - name : "8 Speakers"
+    icon : "fa-microphone"
+
+  - name : "500 + Seats"
+    icon : "fa-flag"
+
+  - name : "300 tickets"
+    icon : "fa-ticket"
+
+  - name : "3 days event"
+    icon : "fa-calendar"
+
+
+
+
+############ Pricing ####################
+pricing:
+  enable : false
+  title : "Get _Ticket_"
+  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
+  pricing_table:
+  - name : "Starter"
+    price : "39.00"
+    price_per : "Person"
+    button_link : "pricing/"
+    features:
+    - "1 Comfortable Seats"
+    - "Free Lunch and Coffee"
+    - "Certificate"
+    - "Easy Access"
+
+  - name : "Standard"
+    price : "49.00"
+    price_per : "Person"
+    button_link : "pricing/"
+    features:
+    - "1 Comfortable Seats"
+    - "Free Lunch and Coffee"
+    - "Certificate"
+    - "Easy Access"
+
+  - name : "Platinum"
+    price : "99.00"
+    price_per : "Person"
+    button_link : "pricing/"
+    features:
+    - "1 Comfortable Seats"
+    - "Free Lunch and Coffee"
+    - "Certificate"
+    - "Easy Access"
+
+
+############### Call to action ############
+call_to_action:
+  enable : false
+  title : "Get Ticket _Now!_"
+  image : "images/speakers/speaker-ticket.png"
+  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmtempor incidi"
+  button:
+    enable : true
+    label : "Buy ticket"
+    link : "pricing/"
+
+
+############### Sponsors ##################
+sponsors:
+  enable : true
+  title : "Our partners, supporters, and sponsors"
+  content : "KiCon Europe 2024 is made possible thanks to the invaluable help
+  from the following organizations"
+  button:
+    enable : true
+    label : "Become a sponsor"
+    link : "./call-for-sponsors/"
+  sponsor_group:
+
+  - name : "Powered by"
+    sponsor_item:
+    - name : "KiCad"
+      logo : "images/sponsors/kicad-logo.png"
+      link : "https://www.kicad.org/"
+
+
+  - name : "Organizing partners"
+    sponsor_item:
+    - name : "KiCad Services Corporation"
+      logo : "images/sponsors/ksc-logo.png"
+      link : "https://www.kipro-pcb.com/"
+    - name : "Open Skunkforce e.V."
+      logo : "images/sponsors/skunkforce-logo.png"
+      link : "https://skunkforce.org/"
+
+
+  - name : "Gold"
+    sponsor_item:
+    - logo : "images/sponsors/your-logo-here.png"
+
+  - name : "Silver"
+    sponsor_item:
+    - logo : "images/sponsors/your-logo-here.png"
+    - logo : "images/sponsors/your-logo-here.png"
+
+
+  - name : "Bronze"
+    sponsor_item:
+    - logo : "images/sponsors/your-logo-here.png"
+    - logo : "images/sponsors/your-logo-here.png"
+
+  - name : "Supporter"
+    sponsor_item:
+    - logo : "images/sponsors/your-logo-here.png"
+    - logo : "images/sponsors/your-logo-here.png"
+    - logo : "images/sponsors/your-logo-here.png"
+
+
+  - name : "Media partners"
+    sponsor_item:

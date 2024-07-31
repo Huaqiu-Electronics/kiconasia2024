@@ -1,0 +1,380 @@
+######################## default configuration ####################
+# baseURL = "https://kicon.kicad.org/europe2024"
+baseURL = "http://kicon.hqdoc.top"
+title = "KiCon Asia 2024"
+theme = "eventre-hugo"
+timeZone = "America/Los_Angeles"
+# post pagination
+paginate = 6 # see https://gohugo.io/extras/pagination/
+# post excerpt
+summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
+# disable language
+disableLanguages = [
+] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
+hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
+
+
+############################# Build ##############################
+[build]
+noJSConfigInAssets = false
+useResourceCacheWhen = 'fallback'
+[build.buildStats]
+enable = true
+[[build.cachebusters]]
+source = 'assets/.*\.(js|ts|jsx|tsx)'
+target = '(js|scripts|javascript)'
+[[build.cachebusters]]
+source = 'assets/.*\.(css|sass|scss)$'
+target = '(css|styles|scss|sass)'
+[[build.cachebusters]]
+source = 'assets/.*\.(.*)$'
+target = '$1'
+
+
+############################# Outputs ##############################
+[outputs]
+home = ["HTML"]
+
+############################# Imaging ##############################
+[imaging]
+# See https://github.com/disintegration/imaging
+# Default JPEG or WebP quality setting. Default is 75.
+quality = 90
+resampleFilter = "lanczos"
+
+############################# Caches ###############################
+[caches]
+[caches.images]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
+
+[caches.assets]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
+
+
+############################# Markup ###############################
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
+
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+attributes = ""
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+attributes = ""
+[[params.plugins.css]]
+link = "plugins/font-awesome/css/all.min.css"
+attributes = ""
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.min.css"
+attributes = ""
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/mixitup/mixitup.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/magnific-popup/magnific-popup.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/syotimer/syotimer.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/google-map/gmap.js"
+attributes = ""
+
+
+####################### navigation ##########################
+
+# main menu
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[menu.main]]
+name = "Call for proposals"
+url = "https://pretalx.kicad.org/kicon-europe-2024/cfp"
+weight = 3
+hasChildren = true
+
+[[menu.main]]
+name = "Registration"
+url = "registration/"
+weight = 4
+
+[[menu.main]]
+name = "Schedule"
+url = "schedule/"
+weight = 5
+
+  [[menu.main]]
+    weight = 1
+    parent = "Schedule"
+    name = "Schedule overview"
+    url = "schedule/"
+
+  [[menu.main]]
+    weight = 3
+    parent = "Schedule"
+    name = "Talks"
+    url = "schedule/talks/"
+
+  [[menu.main]]
+    weight = 4
+    parent = "Schedule"
+    name = "Training Session"
+    url = "schedule/training/"
+
+[[menu.main]]
+name = "Sponsors"
+url = "sponsors/"
+weight = 6
+hasChildren = true
+
+  [[menu.main]]
+    weight = 1
+    parent = "Sponsors"
+    name = "Call for sponsors"
+    url = "call-for-sponsors/"
+
+  [[menu.main]]
+    weight = 2
+    parent = "Sponsors"
+    name = "Our sponsors"
+    url = "sponsors/"
+
+# [[menu.main]]
+# name = "Blog"
+# url = "blog/"
+# weight = 5
+
+ [[menu.main]]
+ weight = 7
+ name = "Venue"
+ hasChildren = true
+
+    [[menu.main]]
+    parent = "Venue"
+    name = "About Venue"
+    url = "venue/about-venue/"
+
+   [[menu.main]]
+   parent = "Venue"
+   name = "Accommodation"
+   url = "venue/accommodation/"
+
+  [[menu.main]]
+  parent = "About"
+  name = "FAQ"
+  url = "faq/"
+  weight = 3
+
+    [[menu.main]]
+  parent = "About"
+  name = "Important dates"
+  url = "important-dates/"
+  weight = 2
+
+
+  [[menu.main]]
+  parent = "About"
+  name = "Code of Conduct"
+  url = "coc/"
+  weight = 4
+
+[[menu.main]]
+name = "Contact"
+url = "contact/"
+weight = 8
+
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+logo_footer = "images/logo.png"
+logo_width = "250px"
+# Meta data
+description = "The KiCad Europe conference 2024 is taking place Sept 12-13"
+author = "KiCon Team"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# copyright
+copyright = "2024"
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation button
+[params.navigation_button]
+enable = true
+label = "Get your ticket!"
+icon = "images/icon/ticket.png"
+link = "https://pretix.eu/kicad/kiconeurope2024/"
+
+# google map
+[params.map]
+enable = true
+map_latitude = 22.571645
+map_longitude = 114.059866
+map_zoom = 16
+map_marker = "images/marker.png"
+name = "Rotunde"
+location = "15 Kaifeng Rd, Futian District,<br> Shenzhen, China."
+email = "kicon@kicad.org"
+link = "http://www.rotunde-bochum.de/"
+popupTitleTemplate = "<h5 align=\"center\">{title}</h5>"
+popupAddressTemplate = "<div align=\"center\">Address: {address}</div>"
+popupTemplatePrefix = "<ul>"
+popupTemplate = "<li>{name} ({date})</li>"
+popupTemplateUrlInt = "<li><a href=\"{url}\">{name}</a> ({date})</li>"
+popupTemplateUrlExt = "<li><a href=\"{url}\" target=\"blank\" rel=\"noopener noreferrer\">{name}</a> ({date})</li>"
+popupTemplateSuffix = "</ul>"
+
+[[params.map.icon]]
+type = "fa"
+name = "venue"
+icon = "building-columns"
+markerColor = "#f06a36"
+
+[[params.map.icon]]
+type = "fa"
+name = "social"
+icon = "user-group"
+markerColor = "#f06a36"
+
+[[params.map.icon]]
+type = "fa"
+name = "pubcrawl"
+icon = "martini-glass-empty"
+markerColor = "#f06a36"
+
+[[params.map.icon]]
+type = "fa"
+name = "airport"
+icon = "plane-departure"
+markerColor = "#f06a36"
+
+[[params.map.icon]]
+type = "fa"
+name = "bus"
+icon = "bus"
+markerColor = "#f06a36"
+
+[[params.map.icon]]
+type = "fa"
+name = "train"
+icon = "train"
+markerColor = "#f06a36"
+
+[[params.map.icon]]
+type = "fa"
+name = "familyfirendly"
+icon = "child-reaching"
+markerColor = "#f06a36"
+
+[[params.map.layer]]
+id = 1
+name = "Conference Venues"
+title = "Rotunde"
+address = "Am Kulturgleis 3-5"
+location = [51.4747839,7.2137885]
+icon = "venue"
+events = [
+  {name="Registration desk", date="18-20 Sept"},
+  {name="Workshops", date="18 Sept", url="./schedule/training/"},
+  {name="Talks", date="19-20 Sept", url="./schedule/talks/"},
+  {name="Community sprint", date="21 Sept", url="./schedule/community-sprint/"},
+]
+url = "http://www.rotunde-bochum.de/"
+
+[[params.map.layer]]
+id = 4
+name = "Arrival Points"
+title = "Train station"
+address = "Bochum-Ehrenfeld"
+location = [51.4719289,7.2092959]
+icon = "train"
+url = "https://www.bahn.de"
+
+[[params.map.layer]]
+id = 5
+name = "Arrival Points"
+title = "Dortmund Airport"
+address = "Flughafenring 2, Dortmund"
+location = [51.5173204,7.6094325]
+icon = "airport"
+url = "https://www.dortmund-airport.de"
+
+[[params.map.layer]]
+id = 6
+name = "Arrival Points"
+title = "Köln Bonn Airport"
+address = "Kennedystraße, Köln"
+location = [50.8665186,7.1374149]
+icon = "airport"
+url = "https://www.koeln-bonn-airport.de/"
+
+[[params.map.layer]]
+id = 7
+name = "Arrival Points"
+title = "Frankfurt International Airport"
+address = "Frankfurt am Main"
+location = [50.0353788,8.5492588]
+icon = "airport"
+url = "http://www.frankfurt-airport.de/"
+
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+############################# social site ########################
+# [[params.social]]
+# title = "facebook"
+# icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+# link = "#"
+
+[[params.social]]
+title = "twitter"
+icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://twitter.com/kicad_pcb/"
+
+[[params.social]]
+title = "mastodon"
+icon = "fa-mastodon" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://fosstodon.org/@kicad"
+
+[[params.social]]
+title = "discord"
+icon = "fa-discord" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://discord.gg/FANuKv8sZn"
+
+[[params.social]]
+title = "telegram"
+icon = "fa-telegram"
+link = "https://t.me/boost/kicadcommunity"

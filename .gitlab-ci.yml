@@ -1,0 +1,31 @@
+variables:
+    BASE_TAG: ${CI_REGISTRY}/${CI_PROJECT_NAMESPACE}/${CI_PROJECT_NAME}/${CI_COMMIT_REF_SLUG}
+
+stages:
+  - test
+  - build
+
+build_site_docker:
+  image: docker:stable
+  tags:
+    - gitlab-org-docker
+  services:
+    - docker:dind
+  stage: build
+  resource_group: production
+  before_script:
+    - docker info
+    - echo $CI_REGISTRY_PASSWORD | docker login -u $CI_REGISTRY_USER --password-stdin "$CI_REGISTRY"
+  script:
+    - docker build -t "$CI_REGISTRY_IMAGE:$CI_COMMIT_BRANCH" .
+    - docker push "$CI_REGISTRY_IMAGE:$CI_COMMIT_BRANCH"
+  only:
+    - main
+
+test_nginx_conf:
+  stage: test
+  image: nginx:alpine
+  allow_failure: false
+  script:
+  - cp -f $CI_PROJECT_DIR/.docker/default.conf /etc/nginx/conf.d/
+  - nginx -t

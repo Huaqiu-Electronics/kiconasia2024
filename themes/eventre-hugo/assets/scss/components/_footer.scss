@@ -1,0 +1,114 @@
+.footer-main {
+  background: #ecf5ff;
+  padding: 80px 0 55px;
+  @include tablet {
+    padding: 50px 0;
+  }
+  .footer-logo{
+    .navbar-brand{
+      margin-right: 0;
+      // background: rgba($color: #fff, $alpha: 0.55);
+      // padding: 20px;
+      // border-radius: 15px;
+      // img{
+      //   margin-bottom: 0;
+      // }
+    }
+  }
+  .block {
+    img {
+      margin-bottom: 60px;
+    }
+
+    ul.social-links-footer {
+      margin-bottom: 0;
+      .list-inline-item{
+        margin: 0 10px;
+        @include mobile {
+          margin: 5px;
+        }
+      }
+      li {
+        a {
+          display: block;
+          height: 50px;
+          width: 50px;
+          text-align: center;
+          background: $light;
+          border-radius: 5px;
+          i {
+            line-height: 50px;
+            color: #44586e;
+          }
+          &:hover {
+            background: $primary-color;
+            i {
+              color: $light;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.subfooter {
+  background: #2a2a37;
+  padding: 18px 0;
+  position: relative;
+  .hu-bian {
+    position: absolute;
+    top: -22px;
+    right: 0;
+    bottom: auto;
+    left: 0;
+    z-index: 1;
+    overflow: hidden;
+    height: 23px;
+    .bg{
+      position: absolute;
+      top: 0;
+      left: 50%;
+      width: 600%;
+      height: 3000px;
+      border-radius: 50%;
+      background-color: #2a2a37;
+      transform: translate(-50%, 0);
+    }
+  }
+  .container{
+    .row{
+      padding-bottom: 0;
+    }
+  }
+  .copyright-text {
+    p {
+      font-family: $secondary-font;
+      a {
+        color: $primary-color;
+      }
+    }
+    @include tablet {
+      text-align: center;
+    }
+  }
+  .to-top {
+    display: block;
+    height: 45px;
+    width: 45px;
+    border-radius: 3px;
+    text-align: center;
+    background: $primary-color;
+    float: right;
+    i {
+      font-size: 1.5rem;
+      color: $light;
+      line-height: 45px;
+    }
+    @include tablet {
+      float: none;
+      margin: auto;
+      margin-top: 30px;
+    }
+  }
+}
