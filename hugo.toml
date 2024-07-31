@@ -3,7 +3,7 @@
 baseURL = "http://kicon.hqdoc.top"
 title = "KiCon Asia 2024"
 theme = "eventre-hugo"
-timeZone = "America/Los_Angeles"
+timeZone = "Asia/Shanghai"
 # post pagination
 paginate = 6 # see https://gohugo.io/extras/pagination/
 # post excerpt
@@ -11,7 +11,7 @@ summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
 # disable language
 disableLanguages = [
 ] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
-hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
+hasCJKLanguage = true #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
 
 
 ############################# Build ##############################
