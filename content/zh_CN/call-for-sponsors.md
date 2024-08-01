@@ -1,70 +1,52 @@
 ---
-title: "Call for sponsors"
+title: "赞助商招募"
 page_header_bg: "images/background/page-title-bg.jpg"
 date: 2020-11-05T15:40:24+06:00
-description: "We invite you to take this opportunity to become a financial partner
-for the KiCon Europe conference in Bochum, Germany in 2024. By sponsoring
-KiCon 2024, You are extending your support to the whole open source EDA
-community"
+description: "我们诚邀您借此机会成为 2024 年在深圳举办的 KiCon Asia 会议的财务合作伙伴。通过赞助 KiCon 2024，您将为整个开源 EDA 社区提供支持。"
 draft: false
 ---
 
-The KiCad Conference (KiCon) Europe conference is the main
-European KiCad community meeting. It is a weeklong event featuring two
-days of workshops and presentations, as well as two days for
-community coding and development.
+KiCon Asia 2024 是亚洲 KiCad 社区的主要会议。会议为期3天，包括两天的研讨会和演讲，以及一天的社区开发者聚会。
 
-KiCon Europe 2024 will be an in-person event but we are working hard to make
-streaming of all presentations a reality in addition to recorded material which
-will later be published on the
+KiCon Asia 2024 将是一次现场活动，但我们正在努力实现所有演讲的流媒体播放，此外，录制的材料稍后也将发布在 
 **{{<
     extlink href="https://www.youtube.com/@kicadeda/playlists"
     title="KiCad YouTube channel"
     target="blank" rel="noopener noreferrer"
->}}**  portal.
+>}}**  
+ 频道门户网站上。
 
-We invite you to take this opportunity to become a financial partner
-for the KiCon Europe conference in Bochum, Germany in 2024. By sponsoring
-KiCon 2024, You are extending your support to the whole open source EDA
-community, a contribution that is essential in keeping this community growing and vibrant.
-In return this offers you the possibility to network and showcase
-your work and solutions to future customers or partners.
+我们诚邀您借此机会成为 2024 年在中国深圳举行的 KiCon 亚洲大会的财务合作伙伴。通过赞助 KiCon 2024，您将为整个开源 EDA 社区提供支持，这对保持社区的发展和活力至关重要。作为回报，您将有机会与未来的客户或合作伙伴建立联系，并向他们展示您的工作和解决方案。
 
-### Why become our partner?
 
-KiCon Europe conference partners are exposed to a highly engaged international
-audience of professional engineers, business representatives, and makers.
-Partnership in the KiCon Europe conference gives you:
+### 为什么成为我们的合作伙伴?
 
-- Opportunity to engage with the KiCad community
-- Marketing and brand exposure
-- Networking opportunities
-- Opportunity to make valuable contacts and increase sales
+KiCon Asia 会议的合作伙伴可以接触到由专业工程师、企业代表和决策者组成的高度参与的国际受众。
+作为我们的合作伙伴，您将可以获得
 
-### Audience
+- 与 KiCad 社区接触的机会
+- 营销和品牌曝光
+- 交流机会
+- 建立有价值的联系和增加销售的机会
 
-Around 150-250 participants are expected to attend the conference on-site from all
-over the Europe. Moreover, the whole conference will be streamed and recorded
-to a even larger audience.
+### 观众
 
-Audience profile:
+预计将有来自亚洲各地的约 100-200 名与会者现场参会。此外，整个会议还将进行流媒体直播和录制
+为更多观众提供服务。
 
-- Specialists from governmental institutions and private companies looking
-  for effective tools for PCB design
-- Developers and users of free and open source PCB software
-- Advocates for free and open source software
-- Experts involved in design and development of KiCad
-- Decision makers and managers of design firms, looking for powerful, fast
-  PCB design software
-- Organizations looking to connect with open source communities
-- Organizations looking to hire open source experts
+观众概况：
 
-### Partnership packages
+- 来自政府机构和企业的专家，他们正在寻找高效的 PCB 设计工具
+- 免费开源 PCB 软件的开发者和用户
+- 免费开源软件的倡导者
+- 参与 KiCad 设计和开发的专家
+- 设计公司的决策者和经理，他们正在寻找功能强大、运行快速的 PCB 设计软件
+- 希望与开源社区建立联系的组织
+- 希望聘请开源专家的机构
 
-We have prepared a number of preconfigured sponsorship packages summarized
-in the following table. If for whatever reason you cannot find a package that
-suits your needs, please feel free to reach out to us so we can work out
-something that fits your needs.
+### 合作方式
+
+我们准备了一系列赞助套餐，汇总如下表所示。无论出于何种原因，如果您找不到适合您的套餐，请随时联系我们，我们将为您提供适合您需求的套餐。
 
 {{< figure
     src="../../images/sponsor_levels.png"
@@ -75,13 +57,7 @@ something that fits your needs.
     rel="noopener noreferrer"
     >}}
 
-*Since the expo space is limited please talk to us about your needs
+由于会场空间有限，请与我们商讨您的需求。
 
-The full sponsorship prospectus can be downloaded as a pdf file
-**{{<
-    extlink href="../doc/kicon_europe_2024_prospectus.pdf"
-    title="here"
-    target="blank" rel="noopener noreferrer"
->}}**.
+如果您有兴趣成为赞助商，请通过以下方式与我们联系： **kicon@kicad.org**
 
-If you are interested in becoming a sponsor, please contact us at: **kicon@kicad.org**

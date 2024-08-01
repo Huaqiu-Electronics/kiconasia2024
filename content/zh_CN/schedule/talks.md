@@ -9,4 +9,4 @@ type: "agenda"
 layout: "single"
 ---
 
-Talks are to be announced once the Call for Proposals closes.
+主体演讲内容将在提案征集结束后公布。

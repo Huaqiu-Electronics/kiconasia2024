@@ -1,5 +1,5 @@
 ---
-title : "Code of Conduct"
+title : "行为准则"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2024-02-11T12:00:14-07:00
 description : ""
@@ -7,48 +7,45 @@ draft : false
 layout : "single"
 ---
 
-This **Code of Conduct** governs how we behave in any KiCad forum or event and whenever we will be judged by our actions. We expect it to be honored by everyone who participates in our event.
+本**行为准则**规定了我们在任何 KiCad 论坛或活动中的行为方式，以及我们的行为将受到的评判。我们希望参加我们活动的每个人都能遵守本准则。
 
-Participants are expected to act respectfully toward others in accordance with the [Berlin Code of Conduct](https://berlincodeofconduct.org/).
+##### 目的
+所有参照本《行为准则》的会议和用户组的首要目标都是包容最广泛、背景最多样的贡献者。因此，我们致力于为所有人提供一个友好、安全和欢迎的环境，无论其性别、性取向、能力、种族、社会经济地位和宗教信仰（或无宗教信仰）如何。
 
-##### Purpose
-A primary goal of all the conferences and user groups that refer to this Code of Conduct is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status and religion (or lack thereof).
+本《行为准则》概述了我们对所有社区参与者的期望，以及对不可接受行为的后果。
 
-This Code of Conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
-
-We invite all those who participate in our events to help us create safe and positive experiences for everyone.
+我们邀请所有参与我们活动的人帮助我们为每个人创造安全和积极的体验。
 
 
-##### Expected Behavior
-- Exercise consideration and respect in your speech and actions.
-- Attempt collaboration before conflict.
-- Refrain from demeaning, discriminatory, or harassing behavior and speech.
-- Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+##### 预期行为
+- 在言行举止中体谅他人，尊重他人。
+- 在冲突之前尝试合作。
+- 避免贬低、歧视或骚扰性言行。
+- 注意周围环境和其他参与者。如果发现危险情况、有人陷入困境或违反本《行为准则》的行为，即使这些行为看似无关紧要，也要提醒社区领导。
 
 
-##### Unacceptable Behavior
-Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions by any participant in our community online, at all related events and in one-on-one communications carried out in the context of community business. Community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+##### 不可接受的行为
+不可接受的行为包括：我们社区的任何参与者在网上、所有相关活动中以及在社区业务范围内进行的一对一交流中发表的恐吓、骚扰、辱骂、歧视、贬损或贬低他人的言论或行为。社区活动场所可能与公众共享；请尊重这些场所的所有顾客。
 
-Harassment includes: harmful or prejudicial verbal or written comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images (including presentation slides); inappropriate depictions of violence (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention.
-
-
-##### Consequences of Unacceptable Behavior
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated. Anyone asked to stop unacceptable behavior is expected to comply immediately.
-
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund). This actions will be also escalated to the KiCon CoC committee.
+骚扰包括：与性别、性取向、种族、宗教、残疾有关的有害或带有偏见的口头或书面评论；不适当地使用裸体和/或性图像（包括演示幻灯片）；不适当地描述暴力（包括演示幻灯片）；故意恐吓、跟踪或尾随；骚扰性摄影或录音；持续干扰讲座或其他活动；不适当的身体接触以及不受欢迎的性关注。
 
 
-##### If You Witness or Are Subject to Unacceptable Behavior
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. Organizers may also provide escorts as desired by the person experiencing distress.
+##### 不可接受行为的后果
+任何社区成员（包括赞助人和有决策权的人员）的不可接受的行为都是不可容忍的。任何被要求停止不可接受行为的人都应立即遵守。
+
+如果社区成员有不可接受的行为，社区组织者可采取任何他们认为适当的措施，包括暂时禁止或永久驱逐出社区，且不给予警告（不退款）。此行为还将上报 KiCon CoC 委员会。
 
 
-##### Addressing Grievances
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify one of the event organizers with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
+##### 如果您目睹或遭受不可接受的行为
+如果您遭受或目睹了不可接受的行为，或有任何其他担忧，请尽快通知社区组织者。此外，社区组织者还可以帮助社区成员与当地执法部门联系，或以其他方式帮助遭遇不可接受行为的人获得安全感。组织者还可以根据遇到困难的人的需要提供护送服务。
 
 
-##### Scope
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues—online and in-person—as well as in all one-on-one communications pertaining to community business.
+##### 处理申诉
+如果您认为自己被错误或不公正地指控违反了本《行为准则》，请通知活动组织者之一，并简要说明您的申诉。我们将根据现有的管理政策处理您的申诉。
 
 
-##### License and attribution
-Berlin Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.
+##### 范围
+我们希望所有社区参与者（有偿或无偿贡献者、赞助商和其他来宾）在所有社区场所--在线和面对面--以及所有与社区业务有关的一对一交流中遵守本《行为准则》。
+
+##### 许可和归属
+采用 CC BY-SA 4.0 许可协议发布。
