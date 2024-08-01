@@ -1,7 +1,7 @@
 {{ define "main"}}
 
-{{ if site.Data.homepage.tab.enable }}
-{{ with site.Data.homepage.tab }}
+{{ if site.Data.config.tab.enable }}
+{{ with index .Site.Data .Site.Language.Lang .homepage.tab }}
 <section class="section schedule">
   <div class="container">
     <div class="row">

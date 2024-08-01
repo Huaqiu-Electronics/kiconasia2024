@@ -1,9 +1,9 @@
 ################# Banner ###################
 banner:
   enable : true
-  heading : "KiCon亚洲2024"
+  heading : "KiCon 亚洲 2024"
   heading_2 : "中国深圳"
-  content : "2024年11月 15日-16日 深圳"
+  content : "2024年11月15日-16日 深圳"
   timer:
     enable : true
     year : 2024

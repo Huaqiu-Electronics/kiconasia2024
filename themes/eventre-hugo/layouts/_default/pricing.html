@@ -1,7 +1,7 @@
 {{ define "main"}}
 
-{{ if site.Data.homepage.pricing.enable }}
-{{ with site.Data.homepage.pricing }}
+{{ if site.Data.config.pricing.enable }}
+{{ with index .Site.Data .Site.Language.Lang .homepage.pricing }}
 <section class="section pricing">
   <div class="container">
     <div class="row">

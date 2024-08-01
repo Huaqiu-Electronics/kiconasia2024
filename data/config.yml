@@ -1,0 +1,31 @@
+################# Banner ###################
+banner:
+  enable: true
+
+################# About ###################
+about:
+  enable: true
+
+################# Speaker ###################
+speakers:
+  enable: true
+
+###################### Tab ####################
+tab:
+  enable: false
+
+############ Registration ####################
+registration:
+  enable: false
+
+############ Pricing ####################
+pricing:
+  enable: false
+
+############### Call to action ############
+call_to_action:
+  enable: false
+
+############### Sponsors ##################
+sponsors:
+  enable: true
