@@ -17,12 +17,12 @@ banner:
 ################# About ###################
 about:
   enable: true
-  title: "关于_KiCon_"
+  title: "关于 _KiCon_"
   #image: "images/speakers/featured-speaker.png"
   image: "images/background/banner-kicon-small.jpg"
-  content: "KiCad会议，一个欧洲会议，讨论和发展所有与KiCad相关的事务。
+  content: "KiCon 系列会议首次于 2019 年在美国伊利诺伊州芝加哥举办，是KiCad社区聚集讨论所有与KiCad相关事务的地方。会议内容既有用户也有开发者的分享，重点关注项目的未来。。
 <br><br>
-这个会议系列首次于2019年在美国伊利诺伊州芝加哥举办，是KiCad社区聚集讨论所有与KiCad相关事务的地方。会议内容既有用户也有开发者的分享，重点关注项目的未来。"
+首届 KiCon Asia 于 2023 年在深圳举办，KiCad 用户与开发者齐聚一堂、畅所欲言。会议在精彩的演讲、有趣的 Workshop 及令人难忘的晚宴后完美落幕。"
   button_solid:
     enable: false
     label: "购买门票"
@@ -35,7 +35,7 @@ about:
 ################# Speaker ###################
 speakers:
   enable: true
-  title: "由_**主题演讲者**_"
+  title: "_**主题演讲嘉宾**_"
   content: ""
   # 演讲者项目来自 "content/speakers" 文件夹
 
