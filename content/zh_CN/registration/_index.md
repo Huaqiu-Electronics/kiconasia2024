@@ -1,5 +1,5 @@
 ---
-title : "Registration"
+title : "注册"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2024-02-11T12:00:14-07:00
 description : "Registration overview for the KiCon Asia 2024 conference
@@ -43,7 +43,7 @@ layout : "single"
 
 ## 日程安排
 
-有关会议日程表和会议期间各种活动的更深入概述，请参见日程表。 [**Schedule**](../schedule/)
+有关会议日程表和会议期间各种活动的更深入概述，请参见[**日程表**](../schedule/)。
 
 #### 取消政策
 

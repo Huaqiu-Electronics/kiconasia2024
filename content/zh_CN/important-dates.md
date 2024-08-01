@@ -1,5 +1,5 @@
 ---
-title : "Important dates"
+title : "重要日期"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2024-02-11T12:00:14-07:00
 description : "Some important dates to keep track of"
@@ -7,20 +7,20 @@ draft : false
 layout : "single"
 ---
 
-### Call for proposals
-2 March 2024 - 1 August 2024
+### 征集提案（演讲人）
+2024 年 8 月 1 日 - 2024 年 11 月 1 日
 
 ---
 
-### End of Early Bird registration
-15 June 2024
+### 早鸟票截止时间
+2024 年 11 月 1 日
 
 ---
 
-### End of online registration
-1 Sept 2024
+### 线上注册截止时间
+2024 年 11 月 8 日
 
 ---
 
-### Conference dates
-18 to 20 Sept 2024
+### 会议时间
+2024 年 11 月 15 日 - 2024 年 11 月 17 日
