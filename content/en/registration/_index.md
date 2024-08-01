@@ -19,7 +19,7 @@ session on 18 Sept 2024.
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
-        <img src="../images/icon/ticket.png" alt="Get your ticket!">
+        <img src="../../images/icon/ticket.png" alt="Get your ticket!">
     <span>Get your ticket here!</span></a>
 </center>
 <hr>
@@ -32,31 +32,31 @@ participation by purchasing a ticket **before 1 Sept 2024** the latest.
 Optional Add-on:
 
 - KiCad Training Session (18 Sept)
-Prior to the main conference, we will conduct a one-day intensive training session
-for professional engineers looking to improve their work with KiCad.  This event
-will be small-group and hands-on, so bring your laptop with KiCad installed to
-sharpen your skills.
-
+  Prior to the main conference, we will conduct a one-day intensive training session
+  for professional engineers looking to improve their work with KiCad. This event
+  will be small-group and hands-on, so bring your laptop with KiCad installed to
+  sharpen your skills.
 
 Main Registration fee includes:
 
 - KiCon Europe Conference (19 - 20 Sept)
-Access to 2 conference days of talks on using KiCad in settings around Europe from
-engineers working in industry, government and education sectors.  Includes talks
-from KiCad developers on new features and maximizing your use of KiCad.  Lunch,
-coffee breaks and dinner included in ticket price.
+  Access to 2 conference days of talks on using KiCad in settings around Europe from
+  engineers working in industry, government and education sectors. Includes talks
+  from KiCad developers on new features and maximizing your use of KiCad. Lunch,
+  coffee breaks and dinner included in ticket price.
 
 - KiCon Europe Workshops (20 Sept)
-Workshops, in 2-hour and 4-hour formats, will be help on the second day of the
-conference, offering the opportunity to learn new skills in a hands-on environment
+  Workshops, in 2-hour and 4-hour formats, will be help on the second day of the
+  conference, offering the opportunity to learn new skills in a hands-on environment
 
 - KiCad Community Coding (21 Sept)
-The Community Coding is a complimentary event for interested participants to learn
-the process for coding KiCad.  Space is limited, so please request early if you are
-interested in C++ coding of KiCad.
-**Registration information to the Community Coding will be shared separately.**
+  The Community Coding is a complimentary event for interested participants to learn
+  the process for coding KiCad. Space is limited, so please request early if you are
+  interested in C++ coding of KiCad.
+  **Registration information to the Community Coding will be shared separately.**
 
 ## Schedule
+
 A more in-depth overview of the schedule and various events taking place during
 the conference can be found under [**Schedule**](../schedule/)
 
@@ -70,7 +70,7 @@ days after the conference.
 
 Unexpected cancellation of the event or impossibility to hold it
 In the unlikely case that the KiCon 2024 cannot be held in whole or in part
-due to any event beyond the Organisers’ control or *force majeure*, the
+due to any event beyond the Organisers’ control or _force majeure_, the
 Conference Organisers cannot be held liable for any damage, cost, or loss
 incurred, such as registration fee or any other direct or indirect loss or
 consequential damage.
@@ -81,6 +81,6 @@ consequential damage.
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
-        <img src="../images/icon/ticket.png" alt="Get your ticket!">
+        <img src="../../images/icon/ticket.png" alt="Get your ticket!">
     <span>Get your ticket here!</span></a>
 </center>

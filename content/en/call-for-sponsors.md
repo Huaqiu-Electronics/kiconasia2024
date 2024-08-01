@@ -67,7 +67,7 @@ suits your needs, please feel free to reach out to us so we can work out
 something that fits your needs.
 
 {{< figure
-    src="../images/sponsor_levels.png"
+    src="../../images/sponsor_levels.png"
     alttext="sponsor levels"
     link="../doc/kicon_europe_2024_prospectus.pdf"
     width="800"
