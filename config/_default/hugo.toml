@@ -139,7 +139,7 @@ preloader = "" # use jpg, png, svg or gif format.
 enable = true
 label = "Get your ticket!"
 icon = "images/icon/ticket.png"
-link = "https://pretix.eu/kicad/kiconeurope2024/"
+link = "https://pretix.eu/kicad/kiconasia2024/"
 
 # google map
 [params.map]

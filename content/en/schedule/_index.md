@@ -42,7 +42,7 @@ layout : "single"
 
 <hr>
 <center>
-    <a href="https://pretix.eu/kicad/kiconeurope2024/"
+    <a href="https://pretix.eu/kicad/kiconasia2024/"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
