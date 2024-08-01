@@ -11,97 +11,96 @@ url = "about/"
 weight = 2
 
 [[main]]
-name = "Call for proposals"
+name = "征集提案"
 url = "https://pretalx.kicad.org/kicon-europe-2024/cfp"
 weight = 3
 hasChildren = true
 
 [[main]]
-name = "Registration"
+name = "注册"
 url = "registration/"
 weight = 4
 
 [[main]]
-name = "Schedule"
+name = "日程"
 url = "schedule/"
 weight = 5
 
   [[main]]
     weight = 1
-    parent = "Schedule"
-    name = "Schedule overview"
+    parent = "日程"
+    name = "日程概览"
     url = "schedule/"
 
   [[main]]
     weight = 3
-    parent = "Schedule"
-    name = "Talks"
+    parent = "日程"
+    name = "演讲"
     url = "schedule/talks/"
 
   [[main]]
     weight = 4
-    parent = "Schedule"
-    name = "Training Session"
+    parent = "日程"
+    name = "培训会议"
     url = "schedule/training/"
 
 [[main]]
-name = "Sponsors"
+name = "赞助商"
 url = "sponsors/"
 weight = 6
 hasChildren = true
 
   [[main]]
     weight = 1
-    parent = "Sponsors"
-    name = "Call for sponsors"
+    parent = "赞助商"
+    name = "征集赞助商"
     url = "call-for-sponsors/"
 
   [[main]]
     weight = 2
-    parent = "Sponsors"
-    name = "Our sponsors"
+    parent = "赞助商"
+    name = "我们的赞助商"
     url = "sponsors/"
 
 # [[main]]
-# name = "Blog"
+# name = "博客"
 # url = "blog/"
 # weight = 5
 
- [[main]]
- weight = 7
- name = "Venue"
- hasChildren = true
-
-    [[main]]
-    parent = "Venue"
-    name = "About Venue"
-    url = "venue/about-venue/"
-
-   [[main]]
-   parent = "Venue"
-   name = "Accommodation"
-   url = "venue/accommodation/"
+[[main]]
+weight = 7
+name = "会场"
+hasChildren = true
 
   [[main]]
-  parent = "About"
-  name = "FAQ"
-  url = "faq/"
-  weight = 3
+    parent = "会场"
+    name = "会场介绍"
+    url = "venue/about-venue/"
 
-    [[main]]
-  parent = "About"
-  name = "Important dates"
+  [[main]]
+    parent = "会场"
+    name = "住宿"
+    url = "venue/accommodation/"
+
+[[main]]
+parent = "关于"
+name = "常见问题"
+url = "faq/"
+weight = 3
+
+  [[main]]
+  parent = "关于"
+  name = "重要日期"
   url = "important-dates/"
   weight = 2
 
-
-  [[main]]
-  parent = "About"
-  name = "Code of Conduct"
-  url = "coc/"
-  weight = 4
+[[main]]
+parent = "关于"
+name = "行为准则"
+url = "coc/"
+weight = 4
 
 [[main]]
-name = "Contact"
+name = "联系我们"
 url = "contact/"
 weight = 8

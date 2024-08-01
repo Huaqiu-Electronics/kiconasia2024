@@ -148,8 +148,6 @@ map_latitude = 22.571645
 map_longitude = 114.059866
 map_zoom = 16
 map_marker = "images/marker.png"
-name = "Rotunde"
-location = "15 Kaifeng Rd, Futian District,<br> Shenzhen, China."
 email = "kicon@kicad.org"
 link = "http://www.rotunde-bochum.de/"
 popupTitleTemplate = "<h5 align=\"center\">{title}</h5>"

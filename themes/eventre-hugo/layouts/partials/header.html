@@ -44,7 +44,7 @@
       {{ if site.Params.navigation_button.enable }}
       <a href="{{ site.Params.navigation_button.link | absURL }}" class="ticket">
         <img src="{{site.Params.navigation_button.icon | absURL }}" alt="ticket">
-        <span>{{ site.Params.navigation_button.label }}</span>
+        <span>{{  i18n "get_your_ticket"  }}</span>
       </a>
       {{end}}
     </div>
