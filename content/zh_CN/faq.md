@@ -56,7 +56,7 @@ Yes, everybody has to register.
 {{</ faq >}}
 
 {{< faq "How do I sign up to attend the conference?" >}}
-Registrations and ticket purchases can be accessed [here](https://pretix.eu/kicad/kiconeurope2024/).
+Registrations and ticket purchases can be accessed [here](https://pretix.eu/kicad/kiconasia2024/).
 {{</ faq >}}
 
 {{< faq "Can I go without registration?" >}}

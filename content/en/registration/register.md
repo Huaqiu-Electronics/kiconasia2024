@@ -8,7 +8,7 @@ draft : false
 layout : "single"
 ---
 
-<pretix-widget event="https://pretix.eu/kicad/kiconeurope2024/" single-item-select="button"></pretix-widget>
+<pretix-widget event="https://pretix.eu/kicad/kiconasia2024/" single-item-select="button"></pretix-widget>
 <noscript>
    <div class="pretix-widget">
         <div class="pretix-widget-info-message">
