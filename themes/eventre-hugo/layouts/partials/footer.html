@@ -56,7 +56,7 @@
 			<li><i class="fa fa-home"></i><span>{{ i18n "Conference_Actual_Address"  }}</span></li>
 			<li><i class="fa fa-envelope"></i><span>{{ .email | markdownify}}</span></li>
 		</ul>
-		<a href="https://osm.org/go/0GMNEzZHG?m=&node=6355120746" target="_blank" class="btn btn-white-md">{{  i18n "Get_Directions"  }}</a>
+		<a id="btn_get_direction" target="_blank" class="btn btn-white-md">{{  i18n "Get_Directions"  }}</a>
 	</div>
 </section>
 {{ end }}
@@ -148,7 +148,83 @@
 			};
 		}
 	})(jQuery);
+
+
+
+  //唤起百度地图
+  function openBaiduMap(lng, lat, address, lat11, lng11) {
+    var geolocation = new BMap.Geolocation();
+    // 开启定位控件
+    geolocation.enableSDKLocation();
+    geolocation.getCurrentPosition(function (result) {
+
+      var queryString;
+      if (this.getStatus() == BMAP_STATUS_SUCCESS) {
+        console.log('11')
+        queryString = `origin=latlng:${result.point.lat},${result.point.lng}|name:我的位置&destination=latlng:${lat},${lng}|name:${address}&mode=driving&coord_type=bd09ll&src=com.mzwu.www`;
+      } else {
+        console.log('22')
+
+        queryString = `origin=latlng:${lat11},${lng11}|name:我的位置&destination=latlng:${lat},${lng}|name:${address}&mode=driving&coord_type=bd09ll&src=com.mzwu.www`;
+
+        // var queryString = `origin=latlng:28.238681,116.608768|name:我的位置&destination=latlng:${lat},${lng}|name:${address}&mode=driving&coord_type=bd09ll&src=com.mzwu.www`;
+
+      }
+      var app_url = `baidumap://map/direction?${queryString}`;
+      var web_url = `http://api.map.baidu.com/direction?${queryString}&region=中国&output=html`;
+      // https://map.baidu.com/dir/%E6%88%91%E7%9A%84%E4%BD%8D%E7%BD%AE/%E5%9C%B0%E5%9D%80%E4%B8%80/@11599509.985,3557925.135,7z?querytype=nav&sn=1$$$$12127997.03,4051196.53$$%E6%88%91%E7%9A%84%E4%BD%8D%E7%BD%AE$$$$$$&en=1$$$$11871379.04,3060815.7$$%E5%9C%B0%E5%9D%80%E4%B8%80$$$$$$&c=233&version=4&route_traffic=1&mrs=1&da_src=shareurl
+      //尝试唤起百度地图App
+      window.location.href = app_url;
+
+
+      //唤起失败打开Web版百度地图
+      var startTime = Date.now();
+      var count = 0;
+
+      var t = setInterval(function () {
+        if (++count < 30) {
+          return;
+        }
+        if (Date.now() - startTime > 800) {
+          clearInterval(t);
+        }
+        if (!(document.hidden || document.webkitHidden)) {
+          window.location.href = web_url;
+          // window.open(web_url,'_bank')//浏览器会拦截
+
+        }
+      }, 20);
+
+      window.onblur = function () {
+        clearInterval(t);
+      };
+    });
+  }
+
+
+  document.getElementById("btn_get_direction").addEventListener("click", function () {
+    let lngNum;
+    let latNum;
+
+    function myFun(result) {
+      console.log(result)//获取当前所在市的信息，主要为了pc端和ios系统获取不到精准位置用的
+      lngNum = result.center.lng;
+      latNum = result.center.lat;
+      openBaiduMap(point.lng, point.lat, name, latNum, lngNum);//调起百度地图
+
+    }
+    var myCity = new BMap.LocalCity();
+    myCity.get(myFun);
+
+  }
+  )
+
+
+
+
 </script>
+<script type="text/javascript" src="https://api.map.baidu.com/api?v=3.0&ak=OZ2trfKMiZwOw0Zj8kdq9COsoYXZAu47"></script>
+
 
 <!-- cookie style -->
 <style>
