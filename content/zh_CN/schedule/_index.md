@@ -23,20 +23,20 @@ layout: "single"
     <table class="tg">
     <thead>
       <tr>
-        <td class="tg-head"><h5>Wednesday</h5> 18 Sept</td>
-        <td class="tg-head"><h5>Thursday </h5>19 Sept</td>
-        <td class="tg-head"><h5>Friday </h5>20 Sept</td>
+        <td class="tg-head"><h5>周四</h5> 11 月 14 日</td>
+        <td class="tg-head"><h5>周五</h5>11 月 15 日</td>
+        <td class="tg-head"><h5>周六</h5>11 月 16 日</td>
       </tr>
     </thead>
     <tbody>
       <tr style="height:200px;">
-        <td class="tg-body" colspan="1"><a href="./training"><h6 style="color: rgb(177, 81, 81);"><b>KiCad Training Session</b></h6></a></td>
-        <td class="tg-body" colspan="2"><a href="./talks"><h6 style="color: darkblue;"><b>Main Conference</b></h6></td>
+        <td class="tg-body" colspan="1"><a href="./training"><h6 style="color: rgb(177, 81, 81);"><b>KiCad 培训课程</b></h6></a></td>
+        <td class="tg-body" colspan="2"><a href="./talks"><h6 style="color: darkblue;"><b>主议程</b></h6></td>
       </tr>
     </tbody>
     </table>
     <br><br>
-    <div>You can explore the agenda by clicking through the items above.</div>
+    <div>您可以点击上面的链接查看议程。</div>
 </div>
 </section>
 
@@ -47,5 +47,5 @@ layout: "single"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="../../images/icon/ticket.png" alt="Get your ticket!">
-    <span>Get your ticket here!</span></a>
+    <span>获取您的门票！</span></a>
 </center>

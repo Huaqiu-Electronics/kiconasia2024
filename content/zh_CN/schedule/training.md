@@ -1,7 +1,7 @@
 ---
-title : "Training Session"
+title : "培训课程"
 page_header_bg : "images/background/page-title-bg.jpg"
-description : "KiCon Europe 2024 training schedule for 18 Sept 2024."
+description : "KiCon Asia 2024 培训课程 2024年11月14日。 "
 map_select_id: [1]
 draft : false
 pretalx: "kiconeurope24-workshops"
@@ -9,19 +9,17 @@ type: "agenda"
 layout: "single"
 ---
 
-The training session will take place  on September 18th which is one day prior to the main conference.
+培训课程将于 11 月 14 日举行，也就是主会场议程的前一天。
 
-**A KiCad Training Session ticket must be purchased to attend.**
+**必须购买 KiCad 培训课程门票才能参加。**
 
-This session is a structured, hands-on class that will cover a variety of critical topics.  Attendees
-will receive a printed course booklet and access to course files.  This will be a small-group setting
-with exercises to develop skills and practice new ideas presented by KiCad developers and engineers.
+该培训会是一个结构化的实践课程，将涵盖各种关键主题。 参加者将获得印刷版课程手册和课程文件。 课程将采用小组形式，由 KiCad 开发人员和工程师提供练习，以培养技能和实践新理念。
 
-Topics include:
+主题包括:
 
-- Project layout
-- Library Management
-- Version control
-- Graphical editing
-- Footprint design
-- Command line automation
+- 项目布局
+- 库管理
+- 版本控制
+- 图形编辑
+- 封装设计
+- 命令行自动化（CLI）

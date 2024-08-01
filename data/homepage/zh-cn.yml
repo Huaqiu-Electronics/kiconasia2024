@@ -195,7 +195,7 @@ call_to_action:
 sponsors:
   enable: true
   title: "我们的合作伙伴、支持者和赞助商"
-  content: "KiCon Europe 2024得以实现，感谢以下组织的宝贵帮助"
+  content: "KiCon Asia 2024 的成功举办，感谢以下组织的宝贵帮助"
   button:
     enable: true
     label: "成为赞助商"

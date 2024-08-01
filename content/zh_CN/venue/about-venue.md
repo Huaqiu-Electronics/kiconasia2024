@@ -8,9 +8,12 @@ layout: "single"
 ---
 
 
-The conference will take place at
-**[Rotunde Bochum](https://www.rotunde-bochum.de/)**.
+KiCon Asia 将在 **[深圳](https://baike.baidu.com/item/%E6%B7%B1%E5%9C%B3%E5%B8%82/11044365?fr=ge_ala)** 举行。
 
-The Rotunde Bochum is a unique, industrial-style event space located in the heart of Bochum, Germany. Originally a train station, this historic building now serves as a cultural hub, hosting a diverse range of events from concerts to art exhibitions.
+深圳是中国南部的一个充满活力的现代化城市，以其创新的技术和繁荣的经济发展而闻名。这座曾经的小渔村已经转变成了一个国际大都市，拥有独特的城市景观和多元文化氛围。
 
-The Rotunde Bochum's central location, easily accessible on foot from many hotels, makes it a convenient gathering point for attendees from all over. With its mix of historic charm and modern functionality, the venue promises an unforgettable conference experience.
+深圳，一个充满活力的现代化都市，位于中国广东省的南部。这座城市以其创新精神和快速发展的高科技产业而闻名于世，是一个集经济、文化、科技于一体的国际大都市。深圳的历史虽然不长，但其发展速度和成就令人瞩目，从一个不起眼的小渔村迅速崛起为全球瞩目的创新中心。
+
+深圳位于广东省的心脏地带，交通便利，从许多酒店步行即可轻松到达，为来自世界各地的访客和商务人士提供了极大的便利。这座城市将历史的魅力与现代的功能完美融合，无论是高楼林立的商业区，还是绿树成荫的公园，都为人们提供了丰富的文化体验和休闲选择。
+
+在这里，您可以参加各种国际会议和展览，体验前沿的科技产品，或是沉浸在丰富的艺术氛围中。深圳的文化中心举办从音乐会到艺术展览等各类活动，为市民和游客提供了一个难忘的文化体验。无论是商务还是休闲，深圳都将为您带来一段难忘的旅程。

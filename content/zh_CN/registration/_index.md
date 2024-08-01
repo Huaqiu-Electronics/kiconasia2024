@@ -2,17 +2,15 @@
 title : "Registration"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2024-02-11T12:00:14-07:00
-description : "Registration overview for the KiCon Europe 2024 conference
-taking place in Bochum, Germany 18-20 July 2024."
+description : "Registration overview for the KiCon Asia 2024 conference
+taking place in Shenzhen 15-16 Nov 2024."
 draft : false
 layout : "single"
 ---
 
-### Main Conference and training session
+### 主会场和培训课程
 
-You can register for the main conference 19-20 Sept, 2024.
-We are pleased to also offer a small, business-focussed KiCon training
-session on 18 Sept 2024.
+您可以注册参加 2024 年 11 月 15-16 日的主会场会议。我们还计划在 2024 年 11 月 14 日举办一个小型的、以企业为重点的 KiCad 培训班（是否举行看报名人数而定）。
 
 <center>
     <a href="https://pretix.eu/kicad/kiconasia2024/"
@@ -20,60 +18,38 @@ session on 18 Sept 2024.
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="../../images/icon/ticket.png" alt="Get your ticket!">
-    <span>Get your ticket here!</span></a>
+    <span>获取您的门票!</span></a>
 </center>
 <hr>
 
-**Important note! On site ticket purchase is subject to availability!** We cannot
-guarantee that you can purchase a ticket on site. In order
-to secure a spot, and help us plan a successful event, please register your
-participation by purchasing a ticket **before 1 Sept 2024** the latest.
+**重要提示！现场购票视情况而定！** 重要提示！现场购票视情况而定！我们不能保证您可以现场购票。为了确保您的位置，并帮助我们成功举办活动，请最迟在 **2024 年 11 月 1 日前**购票登记。
 
-Optional Add-on:
+可选的附件活动:
 
-- KiCad Training Session (18 Sept)
-  Prior to the main conference, we will conduct a one-day intensive training session
-  for professional engineers looking to improve their work with KiCad. This event
-  will be small-group and hands-on, so bring your laptop with KiCad installed to
-  sharpen your skills.
+- KiCad 培训课程（11 月 14 日）:
+  - 在主会场会议之前，我们将为希望提高 KiCad 使用水平的专业工程师举办为期一天的强化培训课程。该活动将采取小班授课和实践操作的形式，因此请携带已安装 KiCad 的笔记本电脑，以提高您的技能。
 
-Main Registration fee includes:
+门票费用包括:
 
-- KiCon Europe Conference (19 - 20 Sept)
-  Access to 2 conference days of talks on using KiCad in settings around Europe from
-  engineers working in industry, government and education sectors. Includes talks
-  from KiCad developers on new features and maximizing your use of KiCad. Lunch,
-  coffee breaks and dinner included in ticket price.
+- KiCon Asia 会议 (11 月 15-16 日)
+  - 参加为期两天的会议，聆听来自电子产业、政府和教育部门的工程师关于使用 KiCad 的演讲。包括 KiCad 开发人员关于新功能和如何用好 KiCad 的讲座。门票包含午餐、晚餐。
 
-- KiCon Europe Workshops (20 Sept)
-  Workshops, in 2-hour and 4-hour formats, will be help on the second day of the
-  conference, offering the opportunity to learn new skills in a hands-on environment
+- KiCon Asia Workshops (11 月 16 日):
+  - 会议第二天将举办 2 小时或 4 小时的研讨会，提供在实践环境中学习新技能的机会。
 
-- KiCad Community Coding (21 Sept)
-  The Community Coding is a complimentary event for interested participants to learn
-  the process for coding KiCad. Space is limited, so please request early if you are
-  interested in C++ coding of KiCad.
-  **Registration information to the Community Coding will be shared separately.**
+- KiCad 社区开发者聚会 (11 月 17 日)
+  - 开发者聚会是一项免费活动，感兴趣的参与者可以学习 KiCad 的编码过程。名额有限，如果您对 KiCad 的 C++ 开发感兴趣，请尽早报名。
+  **代码学习活动的报名信息将另行通知。**
 
-## Schedule
+## 日程安排
 
-A more in-depth overview of the schedule and various events taking place during
-the conference can be found under [**Schedule**](../schedule/)
+有关会议日程表和会议期间各种活动的更深入概述，请参见日程表。 [**Schedule**](../schedule/)
 
-#### CANCELLATION POLICY
+#### 取消政策
 
-The cancellation should be directed to **kicon@kicad.org** in writing
-only. A 25% administrative charge will be held from the registration cost by
-the organizers if the cancellation is announced before Aug 15, 2024. After this
-date no refund will be possible. Refunds will be processed and issued up to 60
-days after the conference.
+请以书面形式写邮件到 **kicon@kicad.org** 取消报名。如果在 2024 年 11 月 1 日之前取消，主办方将从注册费中扣除 25% 的管理费。此日期之后将无法退款。退款将在会议结束后 60 天内处理和发放。
 
-Unexpected cancellation of the event or impossibility to hold it
-In the unlikely case that the KiCon 2024 cannot be held in whole or in part
-due to any event beyond the Organisers’ control or _force majeure_, the
-Conference Organisers cannot be held liable for any damage, cost, or loss
-incurred, such as registration fee or any other direct or indirect loss or
-consequential damage.
+活动意外取消或无法举办：如果 KiCon 2024 因主办方无法控制的事件或不可抗力而无法举办，会议主办方将不对由此造成的任何损害、费用或损失（如注册费或任何其他直接或间接损失或间接损害）承担责任。
 
 <hr>
 <center>
@@ -82,5 +58,5 @@ consequential damage.
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="../../images/icon/ticket.png" alt="Get your ticket!">
-    <span>Get your ticket here!</span></a>
+    <span>获取您的门票!</span></a>
 </center>
