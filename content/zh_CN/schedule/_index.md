@@ -1,10 +1,10 @@
 ---
-title : "Schedule"
-page_header_bg : "images/background/page-title-bg.jpg"
+title: "Schedule"
+page_header_bg: "images/background/page-title-bg.jpg"
 date: 2024-02-11T12:00:14-07:00
-description : "KiCon Europe 2024 schedule overview."
-draft : false
-layout : "single"
+description: "KiCon Europe 2024 schedule overview."
+draft: false
+layout: "single"
 ---
 
 <style type="text/css">
@@ -46,6 +46,6 @@ layout : "single"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
-        <img src="../images/icon/ticket.png" alt="Get your ticket!">
+        <img src="../../images/icon/ticket.png" alt="Get your ticket!">
     <span>Get your ticket here!</span></a>
 </center>
