@@ -1,5 +1,5 @@
 ---
-title: "Schedule"
+title: "日程安排"
 page_header_bg: "images/background/page-title-bg.jpg"
 date: 2024-02-11T12:00:14-07:00
 description: "KiCon Europe 2024 schedule overview."
