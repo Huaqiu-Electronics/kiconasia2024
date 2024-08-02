@@ -30,7 +30,7 @@ about:
   button_outline:
     enable: true
     label: "了解更多"
-    link: "zh_CN/about/"
+    link: "zh-cn/about/"
 
 ################# Speaker ###################
 speakers:
@@ -199,7 +199,7 @@ sponsors:
   button:
     enable: true
     label: "成为赞助商"
-    link: "./zh_CN/call-for-sponsors/"
+    link: "./zh-cn/call-for-sponsors/"
   sponsor_group:
   - name: "由以下组织支持"
     sponsor_item:
