@@ -1,7 +1,7 @@
 ---
 title : "Training Session"
 page_header_bg : "images/background/page-title-bg.jpg"
-description : "KiCon Europe 2024 training schedule for 18 Sept 2024."
+description : "KiCon Asia 2024 training schedule for 14 Nov 2024."
 map_select_id: [1]
 draft : false
 pretalx: "kiconeurope24-workshops"
@@ -9,7 +9,7 @@ type: "agenda"
 layout: "single"
 ---
 
-The training session will take place  on September 18th which is one day prior to the main conference.
+The training session will take place  on November 14th which is one day prior to the main conference.
 
 **A KiCad Training Session ticket must be purchased to attend.**
 

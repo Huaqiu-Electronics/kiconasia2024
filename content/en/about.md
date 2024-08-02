@@ -10,8 +10,8 @@ image: "images/logo.png"
 
 ## About KiCon Asia 2024
 
-The KiCad Conference Europe is the annual gathering of KiCad developers,
-users, designers and advocates from around Europe and beyond
+The KiCad Conference Asia is the annual gathering of KiCad developers,
+users, designers and advocates from around Asia and beyond
 
 KiCad is the world's most popular EDA software package. We are the voice
 for high quality circuit design software in the PCB industry. We are a
