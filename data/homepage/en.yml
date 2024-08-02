@@ -31,7 +31,7 @@ This conference series, first hosted in Chicago, IL, USA in 2019, is a place for
   button_outline:
     enable : true
     label : "Read more"
-    link : "about/"
+    link : "en/about/"
 
 
 ################# Speaker ###################
@@ -269,7 +269,7 @@ sponsors:
   button:
     enable : true
     label : "Become a sponsor"
-    link : "./call-for-sponsors/"
+    link : "./en/call-for-sponsors/"
   sponsor_group:
 
   - name : "Powered by"

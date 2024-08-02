@@ -1,19 +1,38 @@
-{{ $_hugo_config := `{ "version": 1 }` }}
-
 <div class="col-md-6">
   <!-- Collapse -->
   <div class="card">
     <!-- Collapse Header -->
     <div class="card-header" id="headingOne">
       <h5 class="mb-0">
-        <a data-toggle="collapse" href="#{{ .Get 0 | anchorize }}">
+        <a data-toggle="collapse" href="#collapseId">
           <span class="fa fa-plus-circle"></span>{{ .Get 0 | markdownify }}
         </a>
       </h5>
     </div>
     <!-- Collapse Body -->
-    <div id="{{ .Get 0 | anchorize }}" class="collapse" data-parent="#accordion">
+    <div id="collapseId" class="collapse" data-parent="#accordion">
       <div class="card-body">{{ .Inner | markdownify }}</div>
     </div>
   </div>
 </div>
+
+<script>
+  function generateUniqueNumber() {
+    return `id-${Date.now()}-${Math.floor(Math.random() * 10000)}`;
+  }
+
+  document.addEventListener('DOMContentLoaded', function() {
+    // Find all cards to assign unique IDs
+    var cards = document.querySelectorAll('.card');
+    cards.forEach(function(card) {
+      var headerLink = card.querySelector('a');
+      var collapseBody = card.querySelector('.collapse');
+
+      var newId = generateUniqueNumber();
+
+      headerLink.setAttribute('href', `#${newId}`);
+      collapseBody.setAttribute('id', newId);
+    });
+  });
+</script>
+
