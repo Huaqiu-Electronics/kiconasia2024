@@ -16,6 +16,9 @@
 		}
 	}
 	.navbar-nav{
+		// edit by linan, 2024-8-2
+		flex:1;
+		margin-left: 50px;
 		.nav-item{
 			position: relative;
 			font-family: $primary-font;
@@ -48,6 +51,13 @@
 			&.active{
 				.nav-link{
 					color: $primary-color;
+				}
+			}
+		}
+		.nav-item:last-child{
+			.nav-link{
+				span{
+					display: none;
 				}
 			}
 		}
@@ -163,20 +173,76 @@
 // 		}
 // 	}
 // }
+// 中英文切换
+.main-nav{
+	.cn-en-toggle{
+		margin-right: 32px;
+		background: #f0f1f2;
+		height: 32px;
+		padding: 2px;
+		box-sizing: border-box;
+		border-radius: 3px;
+		display: flex;
+		.item{
+			width: 40px;
+			padding: 0;
+			line-height: 28px;
+			text-align: center;
+			font-size: 12px;
+			color: #7f7f7f;
+			border-radius: 2px;
+			&:hover{
+				background: #fbfbfb;
+			}
+			&.en{
+				font-size: 13px;
+				margin-right: 2px;
+			}
+			&.current{
+				color: #192D62;
+				background: #fff;
+			}
 
-@media screen and (max-width: 1600px){
-	.navbar-nav{
-		.nav-item{
-			position: relative;
-			font-family: $primary-font;
-			padding-left: 5px;
-			padding-right: 5px;
+		}
+	}
+}
 
-			.nav-link{
-				span{
-					margin-left: 5px;
+@media screen and (min-width: 1250px) and (max-width: 1600px){
+	.main-nav{
+		.cn-en-toggle{
+			margin-right: 20px;
+		}
+		.navbar-nav{
+			margin-left: 20px;
+			.nav-item{
+				position: relative;
+				font-family: $primary-font;
+				padding-left: 5px;
+				padding-right: 5px;
+				.nav-link{
+					// 隐藏分割线
+					span{
+						display: none;
+					}
+				}
+			}
+		}
+		// 右上角按钮
+		.ticket{
+			// padding: 30px 22px 25px; // 默认内边距
+			padding: 30px 18px 27px;
+			img{
+				// margin-right: 15px;
+				margin: -2px 13px 0 0;
+				$size:28px;
+				width: $size;
+				height: $size;
+				@include large-desktop {
 					display: none;
 				}
+			}
+			span{
+				font-size: 16px;
 			}
 		}
 	}

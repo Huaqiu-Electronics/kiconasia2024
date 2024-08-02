@@ -212,10 +212,9 @@ sponsors:
     - name: "KiCad服务公司"
       logo: "images/sponsors/ksc-logo.png"
       link: "https://www.kipro-pcb.com/"
-    - name: "Open Skunkforce e.V."
-      logo: "images/sponsors/skunkforce-logo.png"
-      link: "https://skunkforce.org/"
-
+    - name : "深圳华秋电子有限公司"
+      logo : "images/sponsors/huaqiu.png"
+      link : "https://www.huaqiu.com/"
   - name: "金牌"
     sponsor_item:
     - logo: "images/sponsors/your-logo-here.png"

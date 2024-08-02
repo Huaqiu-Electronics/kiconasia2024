@@ -191,6 +191,9 @@
 				}
 			}
 		}
+		.read-more{
+			border-radius: 3px;
+		}
 		.list-inline-item:not(:last-child) {
 		    margin-right: 20px;
 		    @include desktop-sm {
@@ -1047,8 +1050,8 @@
 	}
 	.address-block{
 		position: absolute;
-		padding: 45px 50px 40px 50px;
-		top: 100px;
+		padding: 25px 30px 30px 30px;
+		top: 150px;
 		left: 10%;
 		border-radius: 5px;
 		@include mobile {

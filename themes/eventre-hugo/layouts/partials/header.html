@@ -15,8 +15,7 @@
       <span class="fa fa-bars"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav mx-auto">
-
+      <ul class="navbar-nav">
         {{ range site.Menus.main }}
         {{ if .HasChildren }}
         <li class="nav-item dropdown dropdown-slide">
@@ -41,6 +40,12 @@
         {{ end }}
         {{ end }}
       </ul>
+
+      <div class="cn-en-toggle">
+        <a href="/en" class="item en current">EN</a>
+        <a href="/zh-cn" class="item">中文</a>
+      </div>
+
       {{ if site.Params.navigation_button.enable }}
       <a href="{{ site.Params.navigation_button.link | absURL }}" class="ticket">
         <img src="{{site.Params.navigation_button.icon | absURL }}" alt="ticket">
