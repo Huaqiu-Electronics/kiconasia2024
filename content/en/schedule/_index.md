@@ -23,9 +23,9 @@ layout: "single"
     <table class="tg">
     <thead>
       <tr>
-        <td class="tg-head"><h5>Wednesday</h5> 18 Sept</td>
-        <td class="tg-head"><h5>Thursday </h5>19 Sept</td>
-        <td class="tg-head"><h5>Friday </h5>20 Sept</td>
+        <td class="tg-head"><h5>Thursday</h5> 14 Nov</td>
+        <td class="tg-head"><h5>Friday </h5>15 Nov</td>
+        <td class="tg-head"><h5>Saturday </h5>16 Nov</td>
       </tr>
     </thead>
     <tbody>

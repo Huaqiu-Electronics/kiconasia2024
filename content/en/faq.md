@@ -9,7 +9,7 @@ layout : "faq"
 
 
 {{< faq "When and where will the conference take place?" >}}
-The conference will take place from 19 - 20 Sept 2024 in Bochum, Germany.
+The conference will take place from 15 - 16 Nov 2024 in Shenzhen, China.
 {{</ faq >}}
 
 {{< faq "What is included in a business ticket?" >}}
@@ -24,7 +24,7 @@ attend just the training sessions but we think it will be beneficial to also pur
 a ticket and attend KiCon.
 {{</ faq >}}
 
-{{< faq "If the conference is in Germany, does it mean my presentation/workshop needs to be in German?" >}}
+{{< faq "If the conference is in China, does it mean my presentation/workshop needs to be in Chinese?" >}}
 No. The working language of the conference is English.
 {{</ faq >}}
 

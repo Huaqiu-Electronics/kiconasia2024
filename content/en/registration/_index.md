@@ -2,17 +2,17 @@
 title : "Registration"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2024-02-11T12:00:14-07:00
-description : "Registration overview for the KiCon Europe 2024 conference
-taking place in Bochum, Germany 18-20 July 2024."
+description : "Registration overview for the KiCon Asia 2024 conference
+taking place in Shenzhen, China 15-17 Nov 2024."
 draft : false
 layout : "single"
 ---
 
 ### Main Conference and training session
 
-You can register for the main conference 19-20 Sept, 2024.
+You can register for the main conference 15-16 Nov, 2024.
 We are pleased to also offer a small, business-focussed KiCon training
-session on 18 Sept 2024.
+session on 14 Nov 2024.
 
 <center>
     <a href="https://pretix.eu/kicad/kiconasia2024/"
@@ -27,11 +27,11 @@ session on 18 Sept 2024.
 **Important note! On site ticket purchase is subject to availability!** We cannot
 guarantee that you can purchase a ticket on site. In order
 to secure a spot, and help us plan a successful event, please register your
-participation by purchasing a ticket **before 1 Sept 2024** the latest.
+participation by purchasing a ticket **before 1 Nov 2024** the latest.
 
 Optional Add-on:
 
-- KiCad Training Session (18 Sept)
+- KiCad Training Session (14 Nov)
   Prior to the main conference, we will conduct a one-day intensive training session
   for professional engineers looking to improve their work with KiCad. This event
   will be small-group and hands-on, so bring your laptop with KiCad installed to
@@ -39,17 +39,17 @@ Optional Add-on:
 
 Main Registration fee includes:
 
-- KiCon Europe Conference (19 - 20 Sept)
-  Access to 2 conference days of talks on using KiCad in settings around Europe from
+- KiCon Asia Conference (15 - 16 Nov)
+  Access to 2 conference days of talks on using KiCad in settings around Asia from
   engineers working in industry, government and education sectors. Includes talks
   from KiCad developers on new features and maximizing your use of KiCad. Lunch,
   coffee breaks and dinner included in ticket price.
 
-- KiCon Europe Workshops (20 Sept)
+- KiCon Asia Workshops (16 Nov)
   Workshops, in 2-hour and 4-hour formats, will be help on the second day of the
   conference, offering the opportunity to learn new skills in a hands-on environment
 
-- KiCad Community Coding (21 Sept)
+- KiCad Community Coding (17 Nov)
   The Community Coding is a complimentary event for interested participants to learn
   the process for coding KiCad. Space is limited, so please request early if you are
   interested in C++ coding of KiCad.

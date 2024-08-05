@@ -21,7 +21,7 @@ about:
   title : "About _KiCon_"
   #image : "images/speakers/featured-speaker.png"
   image : "images/background/banner-kicon-small.jpg"
-  content : "The KiCad conference, a European conference to discuss and develop all things KiCad.
+  content : "The KiCad conference, a Asian conference to discuss and develop all things KiCad.
 <br><br>
 This conference series, first hosted in Chicago, IL, USA in 2019, is a place for the KiCad community to meet and discuss all things KiCad. The conference is a mix of user and developer content, with a focus on the future of the project."
   button_solid:
@@ -264,7 +264,7 @@ call_to_action:
 sponsors:
   enable : true
   title : "Our partners, supporters, and sponsors"
-  content : "KiCon Europe 2024 is made possible thanks to the invaluable help
+  content : "KiCon Asia 2024 is made possible thanks to the invaluable help
   from the following organizations"
   button:
     enable : true

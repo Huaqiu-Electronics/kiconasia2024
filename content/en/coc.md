@@ -9,7 +9,7 @@ layout : "single"
 
 This **Code of Conduct** governs how we behave in any KiCad forum or event and whenever we will be judged by our actions. We expect it to be honored by everyone who participates in our event.
 
-Participants are expected to act respectfully toward others in accordance with the [Berlin Code of Conduct](https://berlincodeofconduct.org/).
+Participants are expected to act respectfully toward others in accordance with the Code of Conduct.
 
 ##### Purpose
 A primary goal of all the conferences and user groups that refer to this Code of Conduct is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status and religion (or lack thereof).
@@ -51,4 +51,4 @@ We expect all community participants (contributors, paid or otherwise; sponsors;
 
 
 ##### License and attribution
-Berlin Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.
+The Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.

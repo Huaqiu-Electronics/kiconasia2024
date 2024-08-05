@@ -8,19 +8,19 @@ layout : "single"
 ---
 
 ### Call for proposals
-2 March 2024 - 1 August 2024
+1 Aug 2024 - 1 Nov 2024
 
 ---
 
 ### End of Early Bird registration
-15 June 2024
+11 Nov 2024
 
 ---
 
 ### End of online registration
-1 Sept 2024
+8 Nov 2024
 
 ---
 
 ### Conference dates
-18 to 20 Sept 2024
+15 to 17 Sept 2024

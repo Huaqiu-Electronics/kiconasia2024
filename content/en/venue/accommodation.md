@@ -9,76 +9,32 @@ layout: "single"
 
 There are many accommodation options available ranging in price levels & location. Majority of hotels are within a 15 minute walk from the city center and the conference venue.
 
-Participants are expected to **book their accommodation individually** by contacting the providers directly, using a reference code for a special price.
-
-Here is a selection of hotels where we have made prebookings for KiCon. Please use the following information to book a room for yourself. If you have any questions please contact kicon@kicad.org
-
 ---
 
-The keyword for all hotelbookings is "KiCon".
+**{{< extlink href="http://atourshenzhennanshanvankeyuncheng.hotelatour.cn/" title="Atour Hotel (Shenzhen Nanshan Vanke Yuncheng)" >}}**
 
-**{{< extlink href="https://www.ihg.com/holidayinnexpress/hotels/de/de/bochum/qbobh/hoteldetail" title="HolidayInn Express" >}}**
+Reservations: Click on the booking link above or
 
-{{< extlink href="https://www.hiexpress.com/redirect?path=rates&brandCode=EX&localeCode=en&regionCode=1&hotelCode=QBOBH&checkInDate=17&checkInMonthYear=082024&checkOutDate=22&checkOutMonthYear=082024&_PMID=99801505&GPC=NB1&cn=no&viewfullsite=true" title="Booking Link">}}
+Official Reservation and Service Hotline : 4000-606-606
 
-
-Booking-Option until 2024-08-07.
-
-Different rates:
-Price/day: 149,00 EUR incl. breakfast. (2024-09-17)
-Price/day: 159,00 EUR incl. breakfast. (2024-09-18)
-Price/day: 179,00 EUR incl. breakfast. (2024-09-19)
-Price/day: 189,00 EUR incl. breakfast. (2024-09-20)
-Price/day: 149,00 EUR incl. breakfast. (2024-09-21)
-
-Free Cancellation up to 7 days before arrival!
-
----
-
-**{{< extlink href="https://www.ghotel.de/hotels/bochum/" title="GHotel" >}}
-
-Please book via email: bochum@ghotel.de
-or phone: +49 (0)234 944320
-keyword for booking: "KiCon"
-
-Room Allotment: 80 and Booking-Option until 2024-08-07.
-Price/day: 139,00 EUR incl. breakfast. (2024-09-18, 2024-09-19, 2024-09-20, 2024-09-21)
-Free Cancellation up to 14 days before arrival!
 
 
 ---
 
-**{{< extlink href="https://all.accor.com/hotel/1440/index.de.shtml" title="Ibis Hotel" >}}
+**{{< extlink href="https://hotels.ctrip.com/hotels/map?countryId=1&city=30&provinceId=0&checkin=2024/08/21&checkout=2024/08/22&optionId=30&optionType=City&directSearch=1&optionName=%E5%85%A8%E5%AD%A3%E9%85%92%E5%BA%97(%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%B1%B1%E4%B8%87%E7%A7%91%E4%BA%91%E5%9F%8E%E5%BA%97)&display=%E5%85%A8%E5%AD%A3%E9%85%92%E5%BA%97(%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%B1%B1%E4%B8%87%E7%A7%91%E4%BA%91%E5%9F%8E%E5%BA%97)&crn=1&adult=1&children=0&searchBoxArg=t&travelPurpose=0&ctm_ref=ix_sb_dl&domestic=1&" title="JI HOTEL(Shenzhen Nanshan Vanke Yuncheng)" >}}**
 
-Please book via email: H1440@accor.com
-or phone: +49 (0)234 33311
-keyword for booking: "KiCon"
+Reservations: Click on the booking link above or
 
-Room Allotment: 30 and Booking-Option until 2024-08-07.
-Price/day: 108,00 EUR incl. breakfast.
-Free Cancellation up to 14 days before arrival!
+Official Reservation and Service Hotline : 4008-121-121
+
 
 
 ---
 
-**{{< extlink href="https://www.hotel-bb.com/de/hotel/bochum-hbf" title="B&B Hotel">}}
+**{{< extlink href="https://hotels.ctrip.com/hotels/detail/?hotelId=109210767&checkIn=2024-08-21&checkOut=2024-08-22&cityId=30&minprice=&mincurr=&adult=1&children=0&ages=&crn=1&curr=&fgt=&stand=&stdcode=&hpaopts=&mproom=&ouid=&shoppingid=&roomkey=&highprice=-1&lowprice=0&showtotalamt=&hotelUniqueKey=" title="深圳朗华行政公寓(西丽创智云城店)" >}}**
 
-Please book via email: bochum-hbf@hotelbb.com
-or phone: +49 (0)234 91430
-keyword for booking: "KiCon"
 
-Room Allotment: 24 and Booking-Option until 2024-08-07.
-Price/day: from 85,00 up to 120,00 EUR breakfast is not included. Breakfast can be booked additionally for 12.90 EUR per person.
-Free Cancellation up to 28 days before arrival!
+Booking: Click on the booking link above or third-party Apps
+
 
 ---
-
-**{{< extlink href="https://www.acora.de/apartment-hotel-bochum" title="acora Hotel">}}
-
-Please book via email: bochum@acora.de
-or phone: +49 (0)234 6896985
-keyword for booking: "KiCon"
-
-Room Allotment: 40 and Booking-Option until 2024-08-06.
-Price/day: 150,00 EUR incl. breakfast. (2024-09-17, 2024-09-18, 2024-09-19, 2024-09-20, 2024-09-21)
-Free Cancellation up to 3 days before arrival!
