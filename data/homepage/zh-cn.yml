@@ -12,7 +12,7 @@ banner:
   button:
     enable: true
     label: "想进行演讲吗？提案征集目前开放中！"
-    link: "https://pretalx.kicad.org/kicon-europe-2024/cfp"
+    link: "https://pretalx.kicad.org/kicon-asia-2024/cfp"
 
 ################# About ###################
 about:

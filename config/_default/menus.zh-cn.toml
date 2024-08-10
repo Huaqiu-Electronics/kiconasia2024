@@ -12,7 +12,7 @@ weight = 2
 
 [[main]]
 name = "征集提案"
-url = "https://pretalx.kicad.org/kicon-europe-2024/cfp"
+url = "https://pretalx.kicad.org/kicon-asia-2024/cfp"
 weight = 3
 hasChildren = true
 

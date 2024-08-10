@@ -9,33 +9,11 @@ layout : "faq"
 
 
 {{< faq "How do I apply for a China visa?" >}}
-Applying for a Chinese visa involves several steps, which can vary depending on the type of visa you need and your nationality. Here's a general overview of the process:
+More and more countries are eligible for 144-hour visa-free transit or 5 day visa-on-arrival, giving you more flexibility when planning your trip. Which route you take will depend on 1) the country of your passport 2) port of entry and 3) if you want to spend time in Hong Kong. Please note that Hong Kong has it’s own visa policies independant of mainland China.
 
-1. **Determine the Visa Type**: Identify the type of visa you need based on the purpose of your visit. Common types include tourist (L visa), business (M visa), work (Z visa), and family visit (S visa).
+If traveling directly to Shenzhen via plane then check if you are eligible for 144-hour visa-free transit. This also applies if you are flying directly to Hong Kong and transferring to Shenzhen directly by ferry. If you will first spend time in Hong Kong then travel up to Shenzhen then consider the 5-day Visa on Arrival or Port Visa. Passport holders of a few select countries are also elligible for 15 day visa-free entry and some do not have any restrictions at all.
 
-2. **Prepare Required Documents**: Gather the necessary documents, which typically include:
-   - A valid passport with at least six months' validity and blank visa pages.
-   - A completed Visa Application Form (V.2013) with a recent passport-sized photo.
-   - An invitation letter from a Chinese entity or individual, if required.
-   - Proof of accommodation and financial means to support your stay.
-
-3. **Check the Chinese Embassy or Consulate Website**: Visit the official website of the Chinese embassy or consulate in your country to find the most up-to-date information on visa requirements, application procedures, and fees.
-
-4. **Online Application**: Some Chinese diplomatic missions have an online appointment system. You may need to fill out an online form and schedule an appointment to submit your application.
-
-5. **Submit Your Application**: Visit the Chinese visa application center or the embassy/consulate with your appointment confirmation and submit your application in person. You will need to provide your original documents for review.
-
-6. **Pay the Visa Fee**: Pay the required visa fee, which varies depending on your nationality and the type of visa you're applying for.
-
-7. **Wait for Approval**: Visa processing times can vary. It's generally a good idea to apply well in advance of your planned travel.
-
-8. **Collect Your Passport**: Once your visa is ready, you will need to collect your passport, which will have the visa sticker inside.
-
-9. **Check Visa Details**: After receiving your visa, check the details carefully to ensure they are correct, including the visa type, number of entries, validity period, and any other annotations.
-
-Please note that the specific requirements and procedures may change, and there may be additional requirements due to the COVID-19 pandemic. Always refer to the official sources for the most accurate and current information.
-
-
+Please check [Venue](./venue/about-venue.md) page for details.
 {{</ faq >}}
 
 
