@@ -48,16 +48,24 @@ KiCon Asia 会议的合作伙伴可以接触到由专业工程师、企业代表
 
 我们准备了一系列赞助套餐，汇总如下表所示。无论出于何种原因，如果您找不到适合您的套餐，请随时联系我们，我们将为您提供适合您需求的套餐。
 
+
 {{< figure
-    src="../../images/sponsor_levels.png"
+    src="../../images/sponsor_levels_asia.png"
     alttext="sponsor levels"
-    link="../doc/kicon_europe_2024_prospectus.pdf"
+    link="../../doc/kicon_asia_2024_prospectus.pdf"
     width="800"
     target="blank"
     rel="noopener noreferrer"
     >}}
 
 由于会场空间有限，请与我们商讨您的需求。
+
+可下载 PDF 格式的赞助章程全文
+**{{<
+    extlink href="../../doc/kicon_asia_2024_prospectus.pdf"
+    title="here"
+    target="blank" rel="noopener noreferrer"
+>}}**.
 
 如果您有兴趣成为赞助商，请通过以下方式与我们联系： **kicon@kicad.org**
 

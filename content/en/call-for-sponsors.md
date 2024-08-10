@@ -66,20 +66,22 @@ in the following table. If for whatever reason you cannot find a package that
 suits your needs, please feel free to reach out to us so we can work out
 something that fits your needs.
 
+
 {{< figure
-    src="../../images/sponsor_levels.png"
+    src="../../images/sponsor_levels_asia_en.png"
     alttext="sponsor levels"
-    link="../doc/kicon_europe_2024_prospectus.pdf"
+    link="../../doc/kicon_asia_2024_prospectus.pdf"
     width="800"
     target="blank"
     rel="noopener noreferrer"
     >}}
 
-*Since the expo space is limited please talk to us about your needs
+
+Since the expo space is limited please talk to us about your needs
 
 The full sponsorship prospectus can be downloaded as a pdf file
 **{{<
-    extlink href="../doc/kicon_europe_2024_prospectus.pdf"
+    extlink href="../../doc/kicon_asia_2024_prospectus.pdf"
     title="here"
     target="blank" rel="noopener noreferrer"
 >}}**.
